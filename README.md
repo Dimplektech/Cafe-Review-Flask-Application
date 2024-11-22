@@ -51,7 +51,7 @@ A simple Flask web application that allows users to manage a list of cafes. User
 ## CSV Data Format
 The data is stored in cafe-data.csv in the following format:
   ```bash
-    Cafe Name,Location URL,Opening Time,Closing Time,Coffee Rating,WiFi Rating,Power Outlet Rating
+  Cafe Name,Location URL,Opening Time,Closing Time,Coffee Rating,WiFi Rating,Power Outlet Rating
 
 Example:
 Starbucks,https://starbucks.com,8:00 AM,10:00 PM,☕️☕️☕️☕️,💪💪💪💪,🔌🔌🔌🔌
