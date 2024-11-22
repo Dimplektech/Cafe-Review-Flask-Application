@@ -36,7 +36,7 @@ A simple Flask web application that allows users to manage a list of cafes. User
     python main.py
 
 ## Project Structure
-       ```bash
+    
       cafe-review/
       ├── main.py              # Main Flask application
       ├── templates/
